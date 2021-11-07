@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Nov 07 13:11:00 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-017c-f957-e677-00000fa3f0d0 
+on database directory /Users/sandeep/IdeaProjects/spark-apache-iceberg/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@9e89d68 
+Loaded from file:/Users/sandeep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.11+9
+user.dir=/Users/sandeep/IdeaProjects/spark-apache-iceberg
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
