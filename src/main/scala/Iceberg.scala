@@ -1,6 +1,6 @@
 
 import org.apache.spark.SparkConf
-import org.apache.spark.sql.{Dataset, Encoder, Encoders, SaveMode, SparkSession}
+import org.apache.spark.sql.{Dataset, Encoders, SparkSession}
 
 object Iceberg extends App {
 
